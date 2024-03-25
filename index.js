@@ -100,6 +100,3 @@ async function updateOrder(orderIDToUpdate, updatedData) {
         }
     }
 }
-
-
-//test code
